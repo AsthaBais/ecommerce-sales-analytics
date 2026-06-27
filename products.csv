@@ -1,0 +1,501 @@
+product_id,product_name,category_id,brand,cost_price,selling_price,discount_percent,stock
+1,Boldfit Yoga Mat (Blue),5,Boldfit,21531,26786,15,88
+2,Samsung Smart TV (Red),1,Samsung,50907,59340,20,280
+3,Prestige Pressure Cooker (Blue),3,Prestige,68923,81084,0,159
+4,IKEA Study Table (Black),9,IKEA,8753,11117,0,143
+5,Nivia Football (Silver),5,Nivia,75789,101534,20,113
+6,Fortune Basmati Rice (Black),8,Fortune,43409,57757,20,234
+7,Titan Wallet (Red),10,Titan,25851,29889,10,237
+8,Nivia Football (Red),5,Nivia,79349,100738,10,69
+9,Hot Wheels Toy Car (White),7,Hot Wheels,43061,47958,10,202
+10,Tata Tea (Red),8,Tata,30329,37281,20,28
+11,Nike Running Shoes (White),2,Nike,54335,73893,5,259
+12,Mattel Barbie Doll (Black),7,Mattel,72401,89225,5,133
+13,Lakme Face Wash (Black),4,Lakme,5299,6236,20,229
+14,Puma T-Shirt (White),2,Puma,12752,15331,5,80
+15,Puma Hoodie (Black),2,Puma,62891,82179,20,105
+16,HP Pavilion Laptop (Red),1,HP,43851,49552,20,137
+17,Titan Wallet (Red),10,Titan,46238,63826,15,104
+18,Apple iPad Air (Silver),1,Apple,3299,4289,5,108
+19,Prestige Mixer Grinder (White),3,Prestige,26171,35283,5,87
+20,Boldfit Yoga Mat (Red),5,Boldfit,30073,38661,0,80
+21,Nivea Body Lotion (Red),4,Nivea,20675,27009,5,262
+22,LEGO Building Blocks (Blue),7,LEGO,5104,6430,15,75
+23,Adidas Sneakers (Black),2,Adidas,20650,25286,15,137
+24,Milton Lunch Box (Red),3,Milton,21130,28496,20,292
+25,Wildcraft Laptop Bag (Red),10,Wildcraft,23062,29595,15,162
+26,O'Reilly SQL Cookbook (Black),6,O'Reilly,26225,32040,15,294
+27,Fortune Basmati Rice (White),8,Fortune,7550,8825,20,77
+28,IKEA Study Table (Silver),9,IKEA,18223,20334,5,295
+29,Lakme Lipstick (Black),4,Lakme,67139,91140,20,57
+30,Dove Shampoo (Blue),4,Dove,69322,87433,10,153
+31,Packt Data Science Handbook (White),6,Packt,6269,7700,5,91
+32,Dove Shampoo (Silver),4,Dove,19875,25588,0,236
+33,Nilkamal Office Chair (Red),9,Nilkamal,22078,28798,10,35
+34,Apple iPhone 16 (Black),1,Apple,4477,5037,5,61
+35,Adidas Track Pants (Black),2,Adidas,58037,77484,20,210
+36,Sony Bravia TV (White),1,Sony,46812,55886,0,278
+37,Nivia Football (White),5,Nivia,11646,14717,5,296
+38,Nescafe Coffee (Silver),8,Nescafe,10540,12070,10,276
+39,Wildcraft Laptop Bag (Red),10,Wildcraft,61956,68902,15,259
+40,Apple iPad Air (Black),1,Apple,866,1124,5,213
+41,Packt Data Science Handbook (Black),6,Packt,47878,63063,10,291
+42,Milton Lunch Box (Silver),3,Milton,16614,19450,5,157
+43,Nilkamal Office Chair (Blue),9,Nilkamal,6922,8374,5,212
+44,Sony Bravia TV (Red),1,Sony,7451,9105,5,230
+45,Fastrack Watch (Silver),10,Fastrack,47040,62843,0,289
+46,Prestige Mixer Grinder (Black),3,Prestige,35602,47727,0,220
+47,SG Cricket Bat (Blue),5,SG,34403,47773,5,300
+48,Saffola Cooking Oil (Silver),8,Saffola,25909,31438,5,290
+49,Levis Jacket (White),2,Levis,20797,27075,5,224
+50,Fastrack Watch (White),10,Fastrack,68883,87579,10,228
+51,Yonex Badminton Racket (White),5,Yonex,55523,73675,5,208
+52,IKEA Study Table (Black),9,IKEA,41077,57024,10,62
+53,Fortune Basmati Rice (Blue),8,Fortune,51602,59187,10,168
+54,Samsung Galaxy Tab S10 (White),1,Samsung,48871,58741,5,170
+55,Dove Shampoo (Black),4,Dove,62081,75315,15,163
+56,SG Cricket Bat (Black),5,SG,48783,57194,20,285
+57,Milton Lunch Box (White),3,Milton,61537,78953,0,194
+58,Dell Inspiron 15 (Blue),1,Dell,31802,36934,5,126
+59,Pearson Python Programming (Silver),6,Pearson,41797,57054,0,222
+60,Lakme Lipstick (Black),4,Lakme,12896,16937,15,289
+61,Fortune Basmati Rice (Silver),8,Fortune,26533,31105,0,121
+62,Tata Tea (Red),8,Tata,42838,59966,0,228
+63,Apple iPhone 16 (Silver),1,Apple,66676,83278,10,219
+64,Levis Jacket (Silver),2,Levis,69243,94693,0,114
+65,Lakme Lipstick (Silver),4,Lakme,14491,17394,15,77
+66,Nilkamal Office Chair (White),9,Nilkamal,49952,59950,15,155
+67,SG Cricket Bat (Black),5,SG,28510,34711,20,197
+68,Prestige Mixer Grinder (Blue),3,Prestige,79627,89283,0,289
+69,Titan Wallet (Silver),10,Titan,38804,45313,15,291
+70,Nescafe Coffee (Silver),8,Nescafe,18757,24889,15,119
+71,Cello Dinner Set (White),3,Cello,79400,99389,0,142
+72,Nescafe Coffee (Blue),8,Nescafe,55323,62129,10,38
+73,Yonex Badminton Racket (Black),5,Yonex,48581,62627,10,141
+74,Saffola Cooking Oil (Red),8,Saffola,6576,8258,0,79
+75,Milton Water Bottle (Black),3,Milton,25788,35134,0,286
+76,Nivea Body Lotion (Red),4,Nivea,12084,16258,0,217
+77,Cello Storage Box (Black),3,Cello,42492,58727,5,71
+78,Prestige Pressure Cooker (Blue),3,Prestige,47134,52583,15,280
+79,Nilkamal Office Chair (Silver),9,Nilkamal,14757,18381,15,237
+80,Home Centre Sofa (Silver),9,Home Centre,28137,39256,10,168
+81,Apple iPhone 16 (Blue),1,Apple,73183,80610,20,249
+82,Nivea Body Lotion (White),4,Nivea,63006,85615,20,290
+83,Milton Water Bottle (White),3,Milton,31137,40276,20,83
+84,Apple iPad Air (Blue),1,Apple,59683,78025,0,44
+85,IKEA Study Table (Blue),9,IKEA,37955,48287,0,251
+86,Yonex Badminton Racket (Silver),5,Yonex,75576,97276,15,212
+87,Boldfit Yoga Mat (Silver),5,Boldfit,39238,44870,10,216
+88,Wildcraft Laptop Bag (Blue),10,Wildcraft,74600,84363,0,276
+89,Yonex Badminton Racket (White),5,Yonex,14702,16987,5,170
+90,Milton Lunch Box (Silver),3,Milton,73880,102559,0,228
+91,Fastrack Watch (Silver),10,Fastrack,62494,71649,0,254
+92,LEGO Building Blocks (White),7,LEGO,28799,34352,5,286
+93,Wildcraft Laptop Bag (Silver),10,Wildcraft,47922,62061,20,90
+94,Nilkamal Office Chair (Black),9,Nilkamal,45678,63401,0,92
+95,Fastrack Watch (Blue),10,Fastrack,4424,5595,5,227
+96,Titan Wallet (Red),10,Titan,35370,39899,20,215
+97,Titan Wallet (Red),10,Titan,10042,13828,5,27
+98,IKEA Study Table (Black),9,IKEA,19599,26065,20,180
+99,Titan Wallet (Blue),10,Titan,25671,34223,15,297
+100,Prestige Pressure Cooker (Silver),3,Prestige,36138,46538,0,35
+101,Milton Water Bottle (Black),3,Milton,1353,1759,20,242
+102,Titan Wallet (Black),10,Titan,7728,8771,15,277
+103,Lakme Lipstick (White),4,Lakme,44388,59793,0,44
+104,Levis Jeans (Silver),2,Levis,37101,41702,20,57
+105,Pearson Python Programming (Red),6,Pearson,23724,32237,20,120
+106,Titan Wallet (White),10,Titan,7092,9354,5,163
+107,SG Cricket Bat (Red),5,SG,58524,74890,15,103
+108,HP Pavilion Laptop (Red),1,HP,54455,70868,20,90
+109,Pearson Python Programming (Red),6,Pearson,62646,86254,0,102
+110,Fastrack Watch (Blue),10,Fastrack,3479,4241,20,293
+111,SG Cricket Bat (White),5,SG,27063,33454,0,87
+112,O'Reilly SQL Cookbook (White),6,O'Reilly,45685,62805,15,75
+113,Fortune Basmati Rice (Black),8,Fortune,27358,37066,5,72
+114,Adidas Sneakers (Red),2,Adidas,15261,17789,15,141
+115,Home Centre Sofa (White),9,Home Centre,61806,77178,20,196
+116,LEGO Building Blocks (White),7,LEGO,59153,66387,20,171
+117,Nivia Football (White),5,Nivia,76365,91401,5,222
+118,SG Cricket Bat (Red),5,SG,36596,43381,0,141
+119,Tata Tea (Black),8,Tata,52713,65423,0,92
+120,Saffola Cooking Oil (White),8,Saffola,10353,11431,5,67
+121,Tata Tea (White),8,Tata,34722,43604,15,107
+122,Fastrack Watch (Red),10,Fastrack,79994,98502,15,138
+123,Nilkamal Office Chair (Silver),9,Nilkamal,23728,29969,10,229
+124,Dell Inspiron 15 (Silver),1,Dell,59435,82491,0,272
+125,Fastrack Watch (Red),10,Fastrack,16096,19895,0,226
+126,Tata Tea (Silver),8,Tata,19707,26762,0,206
+127,HP Pavilion Laptop (Black),1,HP,22905,26435,10,187
+128,Prestige Pressure Cooker (Blue),3,Prestige,2444,3258,20,249
+129,Puma T-Shirt (Silver),2,Puma,20205,26665,20,109
+130,Adidas Track Pants (Silver),2,Adidas,52657,73228,20,40
+131,Home Centre Sofa (White),9,Home Centre,56855,73174,20,167
+132,Nilkamal Office Chair (White),9,Nilkamal,5452,7388,0,137
+133,IKEA Study Table (Silver),9,IKEA,38755,50168,10,192
+134,Fastrack Watch (Black),10,Fastrack,37667,45352,20,279
+135,Fortune Basmati Rice (Black),8,Fortune,47284,65114,5,298
+136,Hot Wheels Toy Car (Red),7,Hot Wheels,26188,33043,5,33
+137,Titan Wallet (Red),10,Titan,10722,14893,0,256
+138,Saffola Cooking Oil (Silver),8,Saffola,20149,27344,20,243
+139,IKEA Study Table (White),9,IKEA,42458,53277,5,272
+140,Sony WH-1000XM5 Headphones (Silver),1,Sony,585,713,5,141
+141,Pearson Python Programming (Black),6,Pearson,47732,63324,15,215
+142,Titan Wallet (Silver),10,Titan,5522,6124,0,105
+143,Yonex Badminton Racket (Blue),5,Yonex,35669,41923,20,221
+144,Saffola Cooking Oil (White),8,Saffola,46771,63044,20,170
+145,Cello Dinner Set (White),3,Cello,70322,92952,10,220
+146,Lakme Lipstick (Blue),4,Lakme,53571,61570,0,187
+147,Cello Storage Box (Red),3,Cello,23817,32728,10,219
+148,Cello Dinner Set (Red),3,Cello,77717,90656,5,195
+149,Home Centre Sofa (Black),9,Home Centre,29801,40473,20,74
+150,Home Centre Sofa (Blue),9,Home Centre,48446,53663,15,285
+151,Boldfit Yoga Mat (Black),5,Boldfit,42500,56388,10,153
+152,Lakme Lipstick (Blue),4,Lakme,16225,22119,20,58
+153,Levis Jacket (White),2,Levis,6645,7706,10,140
+154,SG Cricket Bat (Blue),5,SG,28049,34173,0,186
+155,Boldfit Yoga Mat (Blue),5,Boldfit,43460,50443,5,108
+156,Packt Data Science Handbook (Red),6,Packt,62871,82886,20,69
+157,Nivea Body Lotion (Blue),4,Nivea,6502,7183,20,156
+158,Cello Dinner Set (Blue),3,Cello,11921,13238,10,110
+159,Saffola Cooking Oil (Silver),8,Saffola,69145,85868,0,87
+160,Fortune Basmati Rice (Blue),8,Fortune,17509,20494,20,289
+161,IKEA Study Table (White),9,IKEA,18437,25453,20,239
+162,LEGO Building Blocks (Silver),7,LEGO,66880,81904,15,295
+163,Nescafe Coffee (White),8,Nescafe,18616,23229,10,281
+164,Packt Data Science Handbook (Silver),6,Packt,45003,59397,15,206
+165,Packt Data Science Handbook (White),6,Packt,66302,75496,20,80
+166,Levis Jacket (Black),2,Levis,18342,25307,0,40
+167,Samsung Galaxy Tab S10 (Blue),1,Samsung,30590,39029,5,57
+168,Lakme Lipstick (Blue),4,Lakme,42099,47183,0,185
+169,O'Reilly SQL Cookbook (Silver),6,O'Reilly,27250,35153,15,113
+170,Puma T-Shirt (Blue),2,Puma,68632,86300,15,217
+171,Fastrack Watch (White),10,Fastrack,65981,91642,5,236
+172,Saffola Cooking Oil (Red),8,Saffola,20122,26642,5,207
+173,Home Centre Sofa (Blue),9,Home Centre,38237,44459,0,289
+174,Lakme Lipstick (White),4,Lakme,25459,34392,5,122
+175,Wildcraft Laptop Bag (Blue),10,Wildcraft,12637,14124,0,66
+176,Nilkamal Office Chair (Blue),9,Nilkamal,64664,74237,20,257
+177,Pearson Python Programming (Red),6,Pearson,53456,67119,0,253
+178,Prestige Pressure Cooker (Red),3,Prestige,61351,73391,10,156
+179,Tata Tea (White),8,Tata,75370,104209,10,92
+180,Wildcraft Laptop Bag (Red),10,Wildcraft,73087,85681,0,220
+181,Sony Bravia TV (Red),1,Sony,16350,21150,5,52
+182,Tata Tea (Red),8,Tata,28978,39924,20,115
+183,Dell Inspiron 15 (White),1,Dell,20841,26530,20,129
+184,LEGO Building Blocks (Red),7,LEGO,43354,56237,20,58
+185,Yonex Badminton Racket (White),5,Yonex,22331,26742,10,145
+186,Fastrack Watch (Blue),10,Fastrack,73368,101387,10,233
+187,Levis Jacket (Red),2,Levis,29187,33520,15,168
+188,Lakme Face Wash (Blue),4,Lakme,33778,43008,15,79
+189,Milton Lunch Box (Black),3,Milton,24983,31761,15,55
+190,Prestige Pressure Cooker (White),3,Prestige,78605,97513,20,274
+191,Adidas Track Pants (Blue),2,Adidas,18624,23724,20,285
+192,Lakme Lipstick (Black),4,Lakme,13417,15300,10,223
+193,Sony Bravia TV (White),1,Sony,5435,7418,10,270
+194,Fastrack Watch (Silver),10,Fastrack,66489,83229,20,244
+195,Packt Data Science Handbook (Blue),6,Packt,67914,81986,5,293
+196,LEGO Building Blocks (White),7,LEGO,2772,3280,10,140
+197,Mattel Barbie Doll (Silver),7,Mattel,75715,90571,15,54
+198,Pearson Python Programming (Silver),6,Pearson,12764,14127,5,105
+199,Fastrack Watch (Black),10,Fastrack,12620,15028,15,161
+200,Nilkamal Office Chair (Silver),9,Nilkamal,26233,36030,20,232
+201,Fortune Basmati Rice (Silver),8,Fortune,66018,74460,0,94
+202,LEGO Building Blocks (White),7,LEGO,15646,18183,0,255
+203,Hot Wheels Toy Car (Black),7,Hot Wheels,15595,19988,0,79
+204,Levis Jacket (Black),2,Levis,17474,24009,0,81
+205,Fastrack Watch (Red),10,Fastrack,18324,24130,20,244
+206,Lakme Lipstick (Black),4,Lakme,38984,49570,15,214
+207,Pearson Python Programming (White),6,Pearson,60182,77947,10,286
+208,Adidas Track Pants (White),2,Adidas,13667,15403,0,222
+209,Nilkamal Office Chair (Black),9,Nilkamal,76053,98829,5,96
+210,Titan Wallet (White),10,Titan,2743,3708,20,119
+211,O'Reilly SQL Cookbook (Black),6,O'Reilly,662,888,5,196
+212,Cello Storage Box (Black),3,Cello,13236,15468,15,80
+213,Milton Water Bottle (Red),3,Milton,47556,60153,20,207
+214,Hot Wheels Toy Car (White),7,Hot Wheels,4044,4763,0,99
+215,Samsung Galaxy Tab S10 (Black),1,Samsung,55872,63522,20,102
+216,Tata Tea (Blue),8,Tata,8404,9663,20,51
+217,Fortune Basmati Rice (Red),8,Fortune,77938,86255,5,86
+218,Milton Water Bottle (Blue),3,Milton,42369,49924,5,23
+219,Dove Soap (Black),4,Dove,33228,37135,0,205
+220,Hot Wheels Toy Car (Blue),7,Hot Wheels,55968,76559,10,53
+221,O'Reilly SQL Cookbook (Blue),6,O'Reilly,37861,46476,5,146
+222,Boldfit Yoga Mat (White),5,Boldfit,33412,41381,0,76
+223,Sony Bravia TV (Black),1,Sony,67894,77181,5,33
+224,Mattel Barbie Doll (Black),7,Mattel,59394,72436,0,270
+225,Milton Water Bottle (Silver),3,Milton,2220,2786,10,249
+226,Adidas Sneakers (Black),2,Adidas,45420,59558,15,63
+227,Dove Shampoo (Red),4,Dove,59870,67683,0,256
+228,Nivea Moisturizer (Black),4,Nivea,38212,46172,20,161
+229,Nescafe Coffee (Red),8,Nescafe,23435,26581,5,32
+230,Sony WH-1000XM5 Headphones (White),1,Sony,46235,58233,20,201
+231,Saffola Cooking Oil (Silver),8,Saffola,33760,42161,5,81
+232,Nilkamal Office Chair (White),9,Nilkamal,26762,34311,5,245
+233,Boldfit Yoga Mat (Red),5,Boldfit,20018,22493,20,52
+234,Nilkamal Office Chair (Red),9,Nilkamal,2987,3314,10,226
+235,Hot Wheels Toy Car (Blue),7,Hot Wheels,43797,56412,0,54
+236,Nike Sports T-Shirt (Silver),2,Nike,64155,83398,0,149
+237,Apple iPad Air (Blue),1,Apple,77251,90444,20,54
+238,Fastrack Watch (Silver),10,Fastrack,896,1070,0,182
+239,Prestige Pressure Cooker (Silver),3,Prestige,66276,73657,20,172
+240,Titan Wallet (Silver),10,Titan,69861,97589,5,53
+241,Nivea Body Lotion (Black),4,Nivea,54839,66611,20,169
+242,Levis Jacket (Black),2,Levis,19956,23246,10,45
+243,Saffola Cooking Oil (White),8,Saffola,31078,41932,10,243
+244,Prestige Pressure Cooker (Silver),3,Prestige,75009,103031,20,248
+245,Apple iPad Air (Blue),1,Apple,22145,30228,5,33
+246,Nivea Moisturizer (Silver),4,Nivea,60890,81954,20,107
+247,Nike Sports T-Shirt (Black),2,Nike,21256,27595,0,152
+248,Nike Running Shoes (Blue),2,Nike,75415,94561,20,249
+249,Prestige Mixer Grinder (Red),3,Prestige,3437,4534,20,277
+250,Titan Wallet (Black),10,Titan,72146,99447,10,175
+251,Nilkamal Office Chair (Black),9,Nilkamal,59651,82559,10,287
+252,Home Centre Sofa (Silver),9,Home Centre,58218,81025,10,244
+253,Sony Bravia TV (Black),1,Sony,3867,4554,0,234
+254,Nescafe Coffee (Black),8,Nescafe,24070,32557,15,63
+255,Boldfit Yoga Mat (Black),5,Boldfit,21187,26553,15,158
+256,Cello Storage Box (Silver),3,Cello,66650,76322,15,264
+257,Dell Inspiron 15 (Silver),1,Dell,46983,54913,0,152
+258,Levis Jeans (Blue),2,Levis,56487,62881,20,147
+259,Milton Lunch Box (Silver),3,Milton,73662,85981,15,201
+260,Levis Jacket (White),2,Levis,38884,50238,20,235
+261,Boldfit Yoga Mat (Silver),5,Boldfit,33091,43551,20,239
+262,Dell XPS 13 (Silver),1,Dell,41446,47476,15,25
+263,Cello Storage Box (Black),3,Cello,51085,58374,10,144
+264,Hot Wheels Toy Car (Black),7,Hot Wheels,66367,92269,5,156
+265,IKEA Study Table (Silver),9,IKEA,5885,8027,5,152
+266,Hot Wheels Toy Car (Silver),7,Hot Wheels,58849,75361,0,237
+267,Sony Bravia TV (Black),1,Sony,39808,44670,0,147
+268,Packt Data Science Handbook (White),6,Packt,53896,61031,5,263
+269,LEGO Building Blocks (White),7,LEGO,33087,36830,10,184
+270,Home Centre Sofa (Red),9,Home Centre,44074,58791,0,104
+271,O'Reilly SQL Cookbook (Red),6,O'Reilly,19458,22934,20,69
+272,Hot Wheels Toy Car (White),7,Hot Wheels,38399,45390,20,233
+273,LEGO Building Blocks (Red),7,LEGO,9063,12069,5,152
+274,Fastrack Watch (Silver),10,Fastrack,71415,99047,0,225
+275,Tata Tea (Blue),8,Tata,10935,13481,15,284
+276,Adidas Track Pants (Silver),2,Adidas,24710,33994,15,155
+277,IKEA Study Table (Silver),9,IKEA,52381,68563,20,245
+278,Boldfit Yoga Mat (Black),5,Boldfit,43403,52174,10,180
+279,Apple iPhone 16 (Silver),1,Apple,18164,23916,5,49
+280,Nescafe Coffee (Red),8,Nescafe,6331,7631,0,262
+281,Levis Jeans (White),2,Levis,78619,99165,20,222
+282,Nivea Body Lotion (White),4,Nivea,54343,75686,5,71
+283,Home Centre Sofa (Blue),9,Home Centre,49309,63108,15,268
+284,Apple iPhone 16 (Silver),1,Apple,75525,89900,5,172
+285,Home Centre Sofa (White),9,Home Centre,6654,7904,15,212
+286,Boldfit Yoga Mat (Red),5,Boldfit,54299,60543,15,154
+287,Prestige Pressure Cooker (Blue),3,Prestige,56020,76162,15,246
+288,Packt Data Science Handbook (Silver),6,Packt,59563,79502,10,183
+289,Lakme Lipstick (Red),4,Lakme,17651,20700,10,152
+290,Hot Wheels Toy Car (White),7,Hot Wheels,55384,66513,10,47
+291,Levis Jacket (Silver),2,Levis,45985,53741,0,24
+292,LEGO Building Blocks (Black),7,LEGO,23425,26836,5,251
+293,Hot Wheels Toy Car (Blue),7,Hot Wheels,53090,60538,10,54
+294,LEGO Building Blocks (Black),7,LEGO,23683,28047,0,67
+295,Packt Data Science Handbook (Silver),6,Packt,68273,88196,0,23
+296,Nilkamal Office Chair (Red),9,Nilkamal,77676,97474,15,266
+297,Tata Tea (Black),8,Tata,23160,29490,10,247
+298,Dell XPS 13 (White),1,Dell,54049,72304,5,237
+299,Adidas Sneakers (White),2,Adidas,7508,8718,10,137
+300,Nescafe Coffee (Red),8,Nescafe,45814,59967,15,292
+301,HP Victus Laptop (White),1,HP,48799,68075,20,109
+302,Yonex Badminton Racket (Silver),5,Yonex,30982,38759,10,205
+303,SG Cricket Bat (Red),5,SG,33853,40340,10,166
+304,Nescafe Coffee (White),8,Nescafe,10553,11960,5,98
+305,Nescafe Coffee (Silver),8,Nescafe,11623,14357,15,125
+306,Dove Soap (White),4,Dove,64631,74384,5,295
+307,Mattel Barbie Doll (Black),7,Mattel,62724,75650,0,297
+308,Apple iPad Air (Red),1,Apple,32866,44303,10,188
+309,Lakme Face Wash (Silver),4,Lakme,30586,36626,20,277
+310,Milton Water Bottle (Blue),3,Milton,30583,41725,0,38
+311,Nike Sports T-Shirt (Red),2,Nike,62650,78409,20,54
+312,Hot Wheels Toy Car (Blue),7,Hot Wheels,33805,39765,10,153
+313,Boldfit Yoga Mat (Silver),5,Boldfit,28059,37762,10,53
+314,Tata Tea (Silver),8,Tata,14544,16066,10,143
+315,Wildcraft Laptop Bag (Silver),10,Wildcraft,60333,83748,20,150
+316,Home Centre Sofa (Silver),9,Home Centre,74935,95450,20,290
+317,Nilkamal Office Chair (Blue),9,Nilkamal,41722,51917,5,265
+318,Puma T-Shirt (White),2,Puma,33765,40958,0,65
+319,Fastrack Watch (Blue),10,Fastrack,23441,27668,5,135
+320,Titan Wallet (Silver),10,Titan,31362,36739,0,97
+321,Levis Jeans (Red),2,Levis,21093,29173,20,127
+322,Cello Dinner Set (Silver),3,Cello,73513,101244,5,94
+323,Nike Running Shoes (Black),2,Nike,24763,28948,0,28
+324,Levis Jacket (Red),2,Levis,50229,56978,0,280
+325,Fastrack Watch (Red),10,Fastrack,16451,18151,0,171
+326,Nivea Body Lotion (Black),4,Nivea,38348,42892,5,168
+327,Packt Data Science Handbook (Black),6,Packt,77784,97471,0,267
+328,Boldfit Yoga Mat (White),5,Boldfit,41769,49822,20,181
+329,Nike Running Shoes (White),2,Nike,2715,3358,15,113
+330,Dell XPS 13 (Blue),1,Dell,77613,94203,0,189
+331,Apple MacBook Air (Red),1,Apple,51609,63304,0,57
+332,HP Victus Laptop (Blue),1,HP,11843,15546,5,164
+333,HP Victus Laptop (Black),1,HP,52774,67774,20,157
+334,Titan Wallet (Silver),10,Titan,2471,2990,20,119
+335,Hot Wheels Toy Car (Blue),7,Hot Wheels,73108,83507,20,227
+336,Milton Lunch Box (Black),3,Milton,69700,81564,15,286
+337,Wildcraft Laptop Bag (Silver),10,Wildcraft,64108,85550,0,206
+338,Dell XPS 13 (White),1,Dell,48081,59431,0,252
+339,LEGO Building Blocks (White),7,LEGO,3419,4728,5,240
+340,O'Reilly SQL Cookbook (Red),6,O'Reilly,2425,2887,0,22
+341,Titan Wallet (Black),10,Titan,60922,73615,20,180
+342,Levis Jacket (Red),2,Levis,38614,50654,5,269
+343,Boldfit Yoga Mat (Black),5,Boldfit,13157,16611,20,94
+344,SG Cricket Bat (White),5,SG,57613,67976,5,92
+345,Titan Wallet (Silver),10,Titan,77522,87005,0,155
+346,O'Reilly SQL Cookbook (Black),6,O'Reilly,73055,87957,10,210
+347,Fortune Basmati Rice (Red),8,Fortune,66795,76007,20,92
+348,Milton Lunch Box (Black),3,Milton,75803,83794,0,52
+349,LEGO Building Blocks (Red),7,LEGO,36559,50641,15,107
+350,Lakme Face Wash (Red),4,Lakme,23781,29748,20,187
+351,SG Cricket Bat (Black),5,SG,64132,80553,20,113
+352,Cello Storage Box (Red),3,Cello,32005,36070,15,57
+353,Mattel Barbie Doll (Black),7,Mattel,63607,71225,10,50
+354,Nike Sports T-Shirt (Black),2,Nike,23830,32245,0,64
+355,Pearson Python Programming (Black),6,Pearson,6217,8226,5,245
+356,Sony Bravia TV (White),1,Sony,6247,6933,0,240
+357,Titan Wallet (Black),10,Titan,63921,75230,0,278
+358,Titan Wallet (Blue),10,Titan,30253,40636,5,287
+359,Saffola Cooking Oil (Red),8,Saffola,45669,52037,10,162
+360,Fortune Basmati Rice (Black),8,Fortune,67958,93626,15,123
+361,SG Cricket Bat (Black),5,SG,5155,6069,0,98
+362,Packt Data Science Handbook (White),6,Packt,24509,27465,10,129
+363,O'Reilly SQL Cookbook (Silver),6,O'Reilly,32213,38694,5,235
+364,Nilkamal Office Chair (Blue),9,Nilkamal,72022,88632,15,249
+365,Dove Shampoo (Blue),4,Dove,39765,54847,20,119
+366,IKEA Study Table (Blue),9,IKEA,30364,36885,10,227
+367,Cello Dinner Set (Blue),3,Cello,44277,49409,15,161
+368,HP Victus Laptop (Red),1,HP,44482,53633,10,223
+369,Prestige Mixer Grinder (Black),3,Prestige,78365,87001,10,186
+370,Nike Sports T-Shirt (Blue),2,Nike,4111,5343,20,72
+371,Lakme Lipstick (Black),4,Lakme,61146,81548,15,68
+372,Fastrack Watch (White),10,Fastrack,43561,58442,15,219
+373,Samsung Galaxy S25 (Black),1,Samsung,53731,70663,10,139
+374,O'Reilly SQL Cookbook (White),6,O'Reilly,585,800,5,113
+375,Nescafe Coffee (Black),8,Nescafe,1886,2163,15,45
+376,Puma Hoodie (Blue),2,Puma,28627,38899,5,197
+377,Titan Wallet (Silver),10,Titan,45036,49971,10,42
+378,Fortune Basmati Rice (White),8,Fortune,17426,21592,20,45
+379,Packt Data Science Handbook (Black),6,Packt,30725,39940,0,44
+380,HP Victus Laptop (Silver),1,HP,28841,40116,0,124
+381,Wildcraft Laptop Bag (Blue),10,Wildcraft,46140,52498,0,129
+382,LEGO Building Blocks (Black),7,LEGO,9938,12549,20,68
+383,Dove Soap (Silver),4,Dove,23340,32394,10,197
+384,Nivea Body Lotion (White),4,Nivea,6490,7842,0,37
+385,HP Victus Laptop (Silver),1,HP,76208,84127,0,223
+386,Titan Wallet (Black),10,Titan,72161,87751,15,264
+387,SG Cricket Bat (Red),5,SG,66161,78077,5,131
+388,Dove Soap (Blue),4,Dove,76659,100397,10,135
+389,Apple MacBook Air (Red),1,Apple,60593,73504,5,191
+390,Pearson Python Programming (White),6,Pearson,46105,62174,0,272
+391,Nivea Body Lotion (Blue),4,Nivea,17540,24023,5,166
+392,Levis Jacket (White),2,Levis,76798,85886,5,96
+393,Lakme Face Wash (Blue),4,Lakme,12984,14554,0,40
+394,Mattel Barbie Doll (Blue),7,Mattel,32518,35824,20,231
+395,IKEA Study Table (Black),9,IKEA,20353,27800,0,65
+396,Hot Wheels Toy Car (White),7,Hot Wheels,18336,23559,0,164
+397,O'Reilly SQL Cookbook (Silver),6,O'Reilly,73439,98186,20,250
+398,Packt Data Science Handbook (Black),6,Packt,22912,29282,20,236
+399,Yonex Badminton Racket (Black),5,Yonex,30770,42646,5,234
+400,Prestige Mixer Grinder (Red),3,Prestige,49002,59102,5,59
+401,Boldfit Yoga Mat (Black),5,Boldfit,78597,89429,15,78
+402,Puma Hoodie (White),2,Puma,72685,80086,5,240
+403,Prestige Mixer Grinder (Black),3,Prestige,46712,64092,20,83
+404,Home Centre Sofa (Black),9,Home Centre,48477,61549,15,74
+405,Levis Jeans (Silver),2,Levis,49183,59004,20,61
+406,Titan Wallet (Red),10,Titan,22451,29437,0,215
+407,Home Centre Sofa (Black),9,Home Centre,45021,61910,15,293
+408,Wildcraft Laptop Bag (Silver),10,Wildcraft,49709,63756,5,280
+409,Titan Wallet (Silver),10,Titan,36690,44010,10,47
+410,Adidas Sneakers (Red),2,Adidas,21800,23987,5,129
+411,Titan Wallet (White),10,Titan,18230,23676,5,50
+412,SG Cricket Bat (Blue),5,SG,64368,89871,5,87
+413,Home Centre Sofa (Black),9,Home Centre,55741,77601,10,120
+414,Samsung Smart TV (Black),1,Samsung,17222,19130,5,45
+415,Yonex Badminton Racket (White),5,Yonex,17615,23165,15,203
+416,Cello Dinner Set (White),3,Cello,49380,64952,0,86
+417,Nilkamal Office Chair (Blue),9,Nilkamal,6664,8144,15,120
+418,Apple MacBook Air (Silver),1,Apple,30752,42452,15,253
+419,Nescafe Coffee (Silver),8,Nescafe,13076,16780,5,87
+420,Nike Running Shoes (Silver),2,Nike,12251,15003,0,260
+421,Boldfit Yoga Mat (White),5,Boldfit,76789,101724,20,131
+422,Nike Sports T-Shirt (White),2,Nike,71437,96179,0,218
+423,LEGO Building Blocks (Silver),7,LEGO,11137,14928,5,80
+424,Hot Wheels Toy Car (Silver),7,Hot Wheels,7823,9466,20,208
+425,Hot Wheels Toy Car (Black),7,Hot Wheels,50722,59352,15,98
+426,Levis Jacket (Blue),2,Levis,8422,10030,10,150
+427,SG Cricket Bat (Red),5,SG,51816,72226,10,116
+428,Dove Soap (Blue),4,Dove,1618,1926,20,212
+429,Milton Water Bottle (White),3,Milton,22643,27524,15,80
+430,Puma Hoodie (Blue),2,Puma,28869,38561,5,195
+431,Home Centre Sofa (Blue),9,Home Centre,20331,22982,20,282
+432,Sony WH-1000XM5 Headphones (Silver),1,Sony,13356,17656,15,95
+433,Dove Soap (Black),4,Dove,79246,100742,15,154
+434,Lakme Face Wash (White),4,Lakme,18060,23767,10,255
+435,Milton Water Bottle (Blue),3,Milton,70181,82164,5,153
+436,Lakme Lipstick (Black),4,Lakme,10813,14185,10,290
+437,Saffola Cooking Oil (Blue),8,Saffola,35506,42995,15,219
+438,Fastrack Watch (Red),10,Fastrack,43861,58721,15,157
+439,Pearson Python Programming (White),6,Pearson,57724,69916,15,158
+440,Hot Wheels Toy Car (Black),7,Hot Wheels,56979,66243,10,84
+441,Adidas Track Pants (Blue),2,Adidas,48988,54211,0,190
+442,Titan Wallet (Blue),10,Titan,24796,32932,20,93
+443,O'Reilly SQL Cookbook (Red),6,O'Reilly,40095,54259,5,77
+444,Lakme Face Wash (Blue),4,Lakme,18418,21583,20,80
+445,Yonex Badminton Racket (Black),5,Yonex,37975,42372,10,298
+446,Wildcraft Laptop Bag (White),10,Wildcraft,54954,73911,10,182
+447,Yonex Badminton Racket (Red),5,Yonex,74761,91492,15,135
+448,Nike Running Shoes (Silver),2,Nike,16488,20588,20,202
+449,Prestige Mixer Grinder (Black),3,Prestige,48781,64340,15,67
+450,IKEA Study Table (White),9,IKEA,27909,33737,10,110
+451,Mattel Barbie Doll (Blue),7,Mattel,35503,48044,15,44
+452,Levis Jeans (White),2,Levis,3818,4991,15,194
+453,Prestige Pressure Cooker (Red),3,Prestige,59871,68230,15,224
+454,O'Reilly SQL Cookbook (White),6,O'Reilly,61845,68092,10,51
+455,Dell Inspiron 15 (Red),1,Dell,70886,79311,10,186
+456,Home Centre Sofa (Black),9,Home Centre,3818,5254,15,111
+457,Prestige Pressure Cooker (White),3,Prestige,42415,52549,5,81
+458,LEGO Building Blocks (White),7,LEGO,75691,98980,0,131
+459,Mattel Barbie Doll (Red),7,Mattel,22058,30275,5,82
+460,Nivea Body Lotion (Blue),4,Nivea,20707,25996,15,110
+461,Sony Bravia TV (Silver),1,Sony,64022,85483,10,85
+462,Packt Data Science Handbook (White),6,Packt,31253,35769,5,246
+463,Dove Shampoo (Silver),4,Dove,79587,102060,0,167
+464,O'Reilly SQL Cookbook (Blue),6,O'Reilly,30056,34226,15,238
+465,Puma Hoodie (Red),2,Puma,52548,59247,0,255
+466,Sony Bravia TV (Red),1,Sony,65752,87869,0,278
+467,Prestige Pressure Cooker (Black),3,Prestige,13432,14832,0,99
+468,LEGO Building Blocks (Silver),7,LEGO,29632,40533,20,113
+469,Levis Jacket (Blue),2,Levis,70509,95741,15,264
+470,Nivea Body Lotion (Blue),4,Nivea,17673,20209,5,98
+471,Prestige Mixer Grinder (Black),3,Prestige,38777,45606,5,197
+472,Home Centre Sofa (White),9,Home Centre,23914,31573,10,227
+473,HP Pavilion Laptop (Silver),1,HP,44741,52048,0,219
+474,Dove Soap (White),4,Dove,9238,12531,0,292
+475,Dell XPS 13 (Red),1,Dell,36646,41459,5,23
+476,Nescafe Coffee (Silver),8,Nescafe,40462,53881,20,185
+477,Prestige Mixer Grinder (White),3,Prestige,51010,58781,0,280
+478,Boldfit Yoga Mat (Silver),5,Boldfit,62566,81151,15,52
+479,Packt Data Science Handbook (Red),6,Packt,6402,7736,10,57
+480,Cello Dinner Set (Blue),3,Cello,11834,14537,10,56
+481,Puma T-Shirt (Red),2,Puma,36101,39894,0,212
+482,Wildcraft Laptop Bag (Red),10,Wildcraft,72212,90192,5,50
+483,Fortune Basmati Rice (Black),8,Fortune,33742,38824,5,27
+484,Levis Jeans (White),2,Levis,12270,14047,0,123
+485,Wildcraft Laptop Bag (Silver),10,Wildcraft,53391,66142,20,252
+486,LEGO Building Blocks (White),7,LEGO,10224,11752,15,267
+487,Lakme Lipstick (White),4,Lakme,57889,75001,0,255
+488,Packt Data Science Handbook (Silver),6,Packt,55596,67033,5,178
+489,Lakme Lipstick (Red),4,Lakme,43598,51996,0,282
+490,Fastrack Watch (White),10,Fastrack,31062,35330,0,101
+491,Nike Sports T-Shirt (Black),2,Nike,46257,57630,15,159
+492,Boldfit Yoga Mat (Red),5,Boldfit,1402,1841,0,91
+493,Mattel Barbie Doll (Red),7,Mattel,40630,48461,15,274
+494,Hot Wheels Toy Car (Silver),7,Hot Wheels,59500,81931,0,234
+495,Nivea Body Lotion (Red),4,Nivea,4926,5798,10,36
+496,HP Pavilion Laptop (Blue),1,HP,41752,54682,15,121
+497,Sony WH-1000XM5 Headphones (Blue),1,Sony,74561,91559,5,257
+498,Fortune Basmati Rice (Silver),8,Fortune,47436,54134,15,134
+499,Pearson Python Programming (Blue),6,Pearson,78299,97073,0,111
+500,O'Reilly SQL Cookbook (White),6,O'Reilly,69839,80198,15,125
