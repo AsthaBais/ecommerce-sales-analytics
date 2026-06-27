@@ -5,19 +5,15 @@ End-to-End E-Commerce Sales Analytics Project using Python, MySQL &amp; Power BI
 ## 📌 Project Overview
 
 This project is an end-to-end E-Commerce Sales Analytics solution built using Python, MySQL, and Power BI. It simulates an e-commerce business by generating realistic sales data, storing it in MySQL, analyzing business performance using SQL, and visualizing insights in Power BI.
-
 ---
 
 ## 🛠️ Tech Stack
-
 - Python
 - MySQL
 - SQL
 - Power BI
 - Git & GitHub
-
 ---
-
 ## 📂 Project Structure
 
 ```
@@ -27,7 +23,6 @@ Ecommerce-SQL-Analytics/
 ├── Python/
 ├── SQL/
 ├── Dashboard/
-├── screenshots/
 └── README.md
 ```
 
@@ -43,10 +38,8 @@ Ecommerce-SQL-Analytics/
 - Top 10 Products
 - Sales by Category
 - Payment Method Analysis
-- Interactive Filters
 
 ---
-
 ## 🗄️ Database Features
 
 - 7 Relational Tables
@@ -54,7 +47,6 @@ Ecommerce-SQL-Analytics/
 - SQL Views
 - Indexes
 - Stored Procedures
-
 ---
 
 ## 📈 SQL Analysis
@@ -66,15 +58,6 @@ Ecommerce-SQL-Analytics/
 - Product Performance
 - Return Analysis
 - Payment Method Analysis
-
----
-
-## 📷 Dashboard Preview
-
-_Add your Power BI dashboard screenshot here._
-
----
-
 ## 👩‍💻 Author
 
 **Astha**
